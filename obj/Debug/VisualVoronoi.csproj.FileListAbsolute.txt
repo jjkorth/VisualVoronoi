@@ -1,0 +1,9 @@
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\bin\Debug\VisualVoronoi.exe.config
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\bin\Debug\VisualVoronoi.exe
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\bin\Debug\VisualVoronoi.pdb
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.Properties.Resources.resources
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.csproj.GenerateResource.Cache
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.exe
+c:\users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.pdb
+C:\Users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.Form1.resources
+C:\Users\1121961\documents\visual studio 2015\Projects\VisualVoronoi\VisualVoronoi\obj\Debug\VisualVoronoi.csprojResolveAssemblyReference.cache
